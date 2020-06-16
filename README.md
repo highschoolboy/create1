@@ -1,5 +1,3 @@
-# create1
-
 <!DOCTYPE html>
 <html lang="ja">
 
@@ -46,7 +44,7 @@
   </div>
   <footer>
     <div class="wrapper">
-      <p><small>&copy;2020 Gaku Inoue</small></p>
+      <p><small>&copy;2020 highschool boy</small></p>
     </div>
   </footer>
 
